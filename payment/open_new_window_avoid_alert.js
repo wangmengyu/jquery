@@ -1,5 +1,5 @@
 /**
- * Created by wmy on 16-4-22.
+ * 点击支付按钮，跳出新窗口，但是浏览器不阻拦。点击事件由用户执行。
  */
 $("#payment_method_alipay").click(function() {
     paymentNotice();
